@@ -1,14 +1,15 @@
 import React, { Component } from 'react';
+import './Home.css'
 
-class Portfolio extends Component{
+class Home extends Component{
 	render(){
 
 		return(
 			<div className=''>
-				Estas?
+				Holi :c
 			</div>
 			)
 	}
 }
 
-export default Portfolio;
+export default Home;
